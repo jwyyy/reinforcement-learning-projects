@@ -2,6 +2,7 @@ import gym
 import torch
 import numpy as np
 
+# reference: Deep Reinforcement Learning in Action, Manning
 
 # set up environment
 # state, reward, done, info = env.step(action)
