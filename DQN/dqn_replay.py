@@ -138,24 +138,3 @@ for i in range(max_games):
 win_prec = float(wins) / float(max_games)
 print("Games played: {0}, # of wins: {1}".format(max_games, wins))
 print("Win percentage: {}".format(win_prec))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
